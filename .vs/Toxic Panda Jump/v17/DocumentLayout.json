@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Projerts\\Toxic Panda Jump\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4CD0FF-616E-FF38-A670-9813347B583D}|Assembly-CSharp.csproj|d:\\unity\\projerts\\toxic panda jump\\assets\\code\\player\\systems\\playerfixedsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4CD0FF-616E-FF38-A670-9813347B583D}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\player\\systems\\playerfixedsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4CD0FF-616E-FF38-A670-9813347B583D}|Assembly-CSharp.csproj|d:\\unity\\projerts\\toxic panda jump\\assets\\code\\gamemanager\\systems\\platformssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4CD0FF-616E-FF38-A670-9813347B583D}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\gamemanager\\systems\\platformssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4CD0FF-616E-FF38-A670-9813347B583D}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic Panda Jump\\assets\\code\\gamemanager\\systems\\gamemanagersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4CD0FF-616E-FF38-A670-9813347B583D}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\gamemanager\\systems\\gamemanagersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerFixedSystem.cs",
+              "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic Panda Jump\\Assets\\Code\\Player\\Systems\\PlayerFixedSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Player\\Systems\\PlayerFixedSystem.cs",
+              "ToolTip": "D:\\Unity\\Projerts\\Toxic Panda Jump\\Assets\\Code\\Player\\Systems\\PlayerFixedSystem.cs",
+              "RelativeToolTip": "Assets\\Code\\Player\\Systems\\PlayerFixedSystem.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCYAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:19:55.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatformsSystem.cs",
+              "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic Panda Jump\\Assets\\Code\\GameManager\\Systems\\PlatformsSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\GameManager\\Systems\\PlatformsSystem.cs",
+              "ToolTip": "D:\\Unity\\Projerts\\Toxic Panda Jump\\Assets\\Code\\GameManager\\Systems\\PlatformsSystem.cs",
+              "RelativeToolTip": "Assets\\Code\\GameManager\\Systems\\PlatformsSystem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:47:27.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManagerSystem.cs",
+              "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic Panda Jump\\Assets\\Code\\GameManager\\Systems\\GameManagerSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\GameManager\\Systems\\GameManagerSystem.cs",
+              "ToolTip": "D:\\Unity\\Projerts\\Toxic Panda Jump\\Assets\\Code\\GameManager\\Systems\\GameManagerSystem.cs",
+              "RelativeToolTip": "Assets\\Code\\GameManager\\Systems\\GameManagerSystem.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:04:44.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
