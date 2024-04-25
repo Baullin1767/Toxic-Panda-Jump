@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f5b1fdcfed8196449ca28115a3a9b7f, type: 3}
   m_Name: Config
   m_EditorClassIdentifier: 
+  platformsSpeedMin: 1
   platformsSpeed: 1
   posXmax: 3.375
   posXmin: -3.375

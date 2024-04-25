@@ -702,7 +702,8 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: MORPEH_BURST;MORPEH
+    Android: MORPEH_BURST;MORPEH;YG_PLUGIN_YANDEX_GAME
+    WebGL: MORPEH;YG_PLUGIN_YANDEX_GAME;MORPEH_BURST
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:

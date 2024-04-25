@@ -26,6 +26,9 @@ public sealed class PlatformsSystem : UpdateSystem {
         platforms = World.Filter.With<PlatformsComponent>().Build();
         score = World.Filter.With<ScoreComponent>().Build();
         player = World.Filter.With<PlayerComponent>().Build();
+
+        ref var platformsC = ref platforms.First().GetComponent<PlatformsComponent>();
+        platformsC.platformConfig.platformsSpeed = platformsC.platformConfig.platformsSpeedMin;
     }
 
     public override void OnUpdate(float deltaTime)

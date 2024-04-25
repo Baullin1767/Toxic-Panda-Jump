@@ -19,9 +19,6 @@ public sealed class GameManagerSystem : UpdateSystem {
         platforms = World.Filter.With<PlatformsComponent>().Build();
         UIC = World.Filter.With<UIComponent>().Build();
         massage = World.Filter.With<MessageComponent>().Build();
-        ref var platformsC = ref platforms.First().GetComponent<PlatformsComponent>();
-        platformsC.platformConfig.posXmax = Camera.main.transform.position.x + 2f * Camera.main.orthographicSize * Camera.main.aspect /2;
-        platformsC.platformConfig.posXmin = Camera.main.transform.position.x - 2f * Camera.main.orthographicSize * Camera.main.aspect /2;
     }
 
     public override void OnUpdate(float deltaTime) {
@@ -44,7 +41,7 @@ public sealed class GameManagerSystem : UpdateSystem {
                 uIComponent.LoseGameWindow.SetActive(true);
                 gManagerComponent.isGameStart = false;
                 ref var platformsC = ref platforms.First().GetComponent<PlatformsComponent>();
-                platformsC.platformConfig.platformsSpeed = 1;
+                platformsC.platformConfig.platformsSpeed = platformsC.platformConfig.platformsSpeedMin;
             }
         }
     }
