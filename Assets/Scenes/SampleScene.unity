@@ -545,7 +545,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -283.65863, y: -274.8181}
+  m_AnchoredPosition: {x: -284, y: -275}
   m_SizeDelta: {x: 867.5717, y: 606.3881}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &306805730
@@ -620,7 +620,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -2.8139648, y: 112.56964}
+  m_AnchoredPosition: {x: -2.8139648, y: 113}
   m_SizeDelta: {x: -2288, y: -1985}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &314660807
@@ -656,7 +656,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: I thought this game couldn't be lost
+  m_Text: "\u042F \u0434\u0443\u043C\u0430\u043B, \u0447\u0442\u043E \u044D\u0442\u0443
+    \u0438\u0433\u0440\u0443 \u043D\u0435\u043B\u044C\u0437\u044F \u043F\u0440\u043E\u0438\u0433\u0440\u0430\u0442\u044C."
 --- !u!222 &314660808
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -929,7 +930,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 690248874}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 091d62db6d94cf84ea9a6a721f36aa37, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -1377,17 +1378,35 @@ MonoBehaviour:
   serializedData:
     messageText: {fileID: 314660807}
     messages:
-    - I thought this game couldn't be lost
-    - Game over? This system's rigged!
-    - Pffft, wiped out again? What a surprise...
-    - Oh, did you actually think you could win?
-    - Lost? You must be used to it by now.
-    - Looks like you're not the hero after all.
-    - Another one bites the dust, and it's hilarious!
-    - What a catastrophic performance, as expected.
-    - Fall and crash, rookie. Fall and crash, again!
-    - I get it, you think I have many lives, like a cat! But I'm a panda, you know
-      that, right?
+    - "\u042F \u0434\u0443\u043C\u0430\u043B, \u0447\u0442\u043E \u044D\u0442\u0443
+      \u0438\u0433\u0440\u0443 \u043D\u0435\u043B\u044C\u0437\u044F \u043F\u0440\u043E\u0438\u0433\u0440\u0430\u0442\u044C."
+    - "\u0418\u0433\u0440\u0430 \u0437\u0430\u043A\u043E\u043D\u0447\u0435\u043D\u0430?
+      \u041A\u0430\u043A\u0430\u044F \u0436\u0430\u043B\u043E\u0441\u044C. \u041F\u043E\u043F\u0440\u043E\u0431\u0443\u0439 
+      \u0435\u0449\u0451, \u043C\u043D\u0435 \u0436\u0435 \u043D\u0440\u0430\u0432\u0438\u0442\u0441\u044F
+      \u043F\u0430\u0434\u0430\u0442\u044C!"
+    - "\u041F\u0444\u0444\u0444, \u043E\u043F\u044F\u0442\u044C \u043F\u0440\u043E\u0438\u0433\u0440\u0430\u043B?
+      \u041A\u0430\u043A\u043E\u0439 \u0441\u044E\u0440\u043F\u0440\u0438\u0437..."
+    - "\u041E, \u0442\u044B \u043F\u0440\u0430\u0432\u0434\u0430 \u0434\u0443\u043C\u0430\u043B,
+      \u0447\u0442\u043E \u0441\u043C\u043E\u0436\u0435\u0448\u044C \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u044C?"
+    - "\u0423\u043F\u0430\u043B? \u0422\u044B, \u0434\u043E\u043B\u0436\u043D\u043E
+      \u0431\u044B\u0442\u044C, \u0443\u0436\u0435 \u043F\u0440\u0438\u0432\u044B\u043A
+      \u043A \u044D\u0442\u043E\u043C\u0443."
+    - "\u041F\u043E\u0445\u043E\u0436\u0435, \u0442\u044B \u0432\u0441\u0435-\u0442\u0430\u043A\u0438
+      \u043D\u0435 \u0433\u0435\u0440\u043E\u0439."
+    - "\u041E\u043F\u044F\u0442\u044C \u0433\u043B\u043E\u0442\u0430\u044E \u043F\u044B\u043B\u044C.
+      \u0422\u0435\u0431\u0435 \u0432\u0435\u0441\u0435\u043B\u043E, \u0430 \u043C\u043D\u0435
+      \u043D\u0435\u0442!"
+    - "\u041F\u0440\u043E\u0438\u0433\u0440\u044B\u0432\u0430\u0435\u0448\u044C \u0442\u044B,
+      \u0430 \u0441\u0442\u0440\u0430\u0434\u0430\u044E \u044F."
+    - "\u041F\u0430\u0434\u0430\u0439 \u0438 \u0440\u0430\u0437\u0431\u0438\u0432\u0430\u0439\u0441\u044F,
+      \u043D\u043E\u0432\u0438\u0447\u043E\u043A. \u041F\u0430\u0434\u0430\u0439
+      \u0438 \u0440\u0430\u0437\u0431\u0438\u0432\u0430\u0439\u0442\u0435\u0441\u044C
+      \u0441\u043D\u043E\u0432\u0430!"
+    - "\u042F \u043F\u043E\u043D\u0438\u043C\u0430\u044E, \u0442\u044B \u0434\u0443\u043C\u0430\u0435\u0448\u044C,
+      \u0447\u0442\u043E \u0443 \u043C\u0435\u043D\u044F \u043C\u043D\u043E\u0433\u043E
+      \u0436\u0438\u0437\u043D\u0435\u0439, \u043A\u0430\u043A \u0443 \u043A\u043E\u0448\u043A\u0438!
+      \u041D\u043E \u044F \u043F\u0430\u043D\u0434\u0430, \u0442\u044B \u044D\u0442\u043E
+      \u0437\u043D\u0430\u0435\u0448\u044C, \u0434\u0430?"
 --- !u!114 &1041670930
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1589,8 +1608,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 601.5, y: -7.884033}
-  m_SizeDelta: {x: 1798.8058, y: 1154.9153}
+  m_AnchoredPosition: {x: 623.85004, y: -0.0000038146973}
+  m_SizeDelta: {x: 1247.7, y: 989.9734}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1240637310
 CanvasRenderer:
@@ -1620,7 +1639,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 4646f06f12d9868498ed68043950c171, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c8c19de444fd0df48a52f00b28204dd7, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1719,7 +1738,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1354145073}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 091d62db6d94cf84ea9a6a721f36aa37, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -2180,7 +2199,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 960, y: -1309.9402}
+  m_AnchoredPosition: {x: 960, y: -1310}
   m_SizeDelta: {x: 1203.5088, y: -2619.8918}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1824764890
@@ -2448,7 +2467,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1926915827}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 091d62db6d94cf84ea9a6a721f36aa37, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -2585,7 +2604,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.24274611}
-  m_AnchoredPosition: {x: 37.33789, y: 1903.6848}
+  m_AnchoredPosition: {x: 37, y: 1904}
   m_SizeDelta: {x: 200.3333, y: 3807.3604}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1948565244
@@ -2661,7 +2680,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -960, y: 417.65002}
+  m_AnchoredPosition: {x: -960, y: 418}
   m_SizeDelta: {x: 3137.8281, y: -753.5957}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1972248412
@@ -2767,6 +2786,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1386080578}
     m_Modifications:
+    - target: {fileID: 2092873128832426737, guid: 3cb37843ddc91714fb589a19a971fb83, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: cbdd652661f8079449274f700aa87310, type: 3}
+    - target: {fileID: 3114915287729567355, guid: 3cb37843ddc91714fb589a19a971fb83, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1866.646
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114915287729567355, guid: 3cb37843ddc91714fb589a19a971fb83, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 2173.7568
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114915287729567355, guid: 3cb37843ddc91714fb589a19a971fb83, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.000030518
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114915287729567355, guid: 3cb37843ddc91714fb589a19a971fb83, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.0000076294
+      objectReference: {fileID: 0}
     - target: {fileID: 3778911965111082870, guid: 3cb37843ddc91714fb589a19a971fb83, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 

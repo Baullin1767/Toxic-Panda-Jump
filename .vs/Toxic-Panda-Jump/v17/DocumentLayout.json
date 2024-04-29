@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|d:\\unity\\projerts\\toxic-panda-jump\\assets\\code\\player\\systems\\inputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\player\\systems\\inputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\assets\\code\\player\\systems\\mobilinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\player\\systems\\mobilinputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\assets\\code\\gamemanager\\systems\\gamemanagersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\gamemanager\\systems\\gamemanagersystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\assets\\code\\gamemanager\\loadmainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\gamemanager\\loadmainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\assets\\code\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\assets\\yandexgame\\workingdata\\savesyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\workingdata\\savesyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Library\\PackageCache\\com.scellecs.morpeh@2eb519ce4a\\Core\\SystemsGroupExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.scellecs.morpeh@2eb519ce4a\\Core\\SystemsGroupExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\assets\\code\\gamemanager\\systems\\platformssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\gamemanager\\systems\\platformssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|d:\\unity\\projerts\\toxic-panda-jump\\assets\\code\\gamemanager\\loadmainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\gamemanager\\loadmainscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|d:\\unity\\projerts\\toxic-panda-jump\\assets\\code\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\ui\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\YandexGame\\WorkingData\\Editor\\SavesEditorYG.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\YandexGame\\WorkingData\\Editor\\SavesEditorYG.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Library\\PackageCache\\com.scellecs.morpeh@2eb519ce4a\\Core\\SystemsGroupExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.scellecs.morpeh@2eb519ce4a\\Core\\SystemsGroupExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\assets\\code\\gamemanager\\components\\scorecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\ui\\recordload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\assets\\yandexgame\\workingdata\\savesyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\workingdata\\savesyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\assets\\code\\scriptable\\platformconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\scriptable\\platformconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\assets\\code\\player\\systems\\inputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\player\\systems\\inputsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\Projerts\\Toxic-Panda-Jump\\assets\\code\\player\\systems\\playerfixedsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +66,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "MobilInputSystem.cs",
+              "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\Player\\Systems\\MobilInputSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Player\\Systems\\MobilInputSystem.cs",
+              "ToolTip": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\Player\\Systems\\MobilInputSystem.cs",
+              "RelativeToolTip": "Assets\\Code\\Player\\Systems\\MobilInputSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:51:19.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UIController.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\UI\\UIController.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\UI\\UIController.cs",
@@ -74,38 +90,35 @@
               "RelativeToolTip": "Assets\\Code\\UI\\UIController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T00:17:40.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T00:17:40.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoadMainScene.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\GameManager\\LoadMainScene.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\GameManager\\LoadMainScene.cs",
               "ToolTip": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\GameManager\\LoadMainScene.cs",
               "RelativeToolTip": "Assets\\Code\\GameManager\\LoadMainScene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T00:15:27.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T00:15:27.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SystemsGroupExtensions.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Library\\PackageCache\\com.scellecs.morpeh@2eb519ce4a\\Core\\SystemsGroupExtensions.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.scellecs.morpeh@2eb519ce4a\\Core\\SystemsGroupExtensions.cs",
               "ToolTip": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Library\\PackageCache\\com.scellecs.morpeh@2eb519ce4a\\Core\\SystemsGroupExtensions.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.scellecs.morpeh@2eb519ce4a\\Core\\SystemsGroupExtensions.cs",
-              "ViewState": "AQIAAL0AAAAAAAAAAABRwMAAAABFAAAA",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAAAMAAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T00:11:24.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T00:11:24.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SavesEditorYG.json",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\YandexGame\\WorkingData\\Editor\\SavesEditorYG.json",
               "RelativeDocumentMoniker": "Assets\\YandexGame\\WorkingData\\Editor\\SavesEditorYG.json",
@@ -113,12 +126,11 @@
               "RelativeToolTip": "Assets\\YandexGame\\WorkingData\\Editor\\SavesEditorYG.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-24T20:35:31.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T20:35:31.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "RecordLoad.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\UI\\RecordLoad.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\UI\\RecordLoad.cs",
@@ -130,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "PlatformConfig.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\Scriptable\\PlatformConfig.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\Scriptable\\PlatformConfig.cs",
@@ -142,19 +154,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "InputSystem.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\Player\\Systems\\InputSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\Player\\Systems\\InputSystem.cs",
               "ToolTip": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\Player\\Systems\\InputSystem.cs",
               "RelativeToolTip": "Assets\\Code\\Player\\Systems\\InputSystem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T19:59:49.527Z"
+              "WhenOpened": "2024-04-24T19:59:49.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "SavesYG.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\YandexGame\\WorkingData\\SavesYG.cs",
               "RelativeDocumentMoniker": "Assets\\YandexGame\\WorkingData\\SavesYG.cs",
@@ -166,20 +179,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GameManagerSystem.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\GameManager\\Systems\\GameManagerSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\GameManager\\Systems\\GameManagerSystem.cs",
               "ToolTip": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\GameManager\\Systems\\GameManagerSystem.cs",
               "RelativeToolTip": "Assets\\Code\\GameManager\\Systems\\GameManagerSystem.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBQAAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T19:08:52.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T19:08:52.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ScoreSystem.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\GameManager\\Systems\\ScoreSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\GameManager\\Systems\\ScoreSystem.cs",
@@ -191,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ScoreComponent.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\GameManager\\Components\\ScoreComponent.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\GameManager\\Components\\ScoreComponent.cs",
@@ -203,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PlayerFixedSystem.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\Player\\Systems\\PlayerFixedSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\Player\\Systems\\PlayerFixedSystem.cs",
@@ -215,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PlatformsSystem.cs",
               "DocumentMoniker": "D:\\Unity\\Projerts\\Toxic-Panda-Jump\\Assets\\Code\\GameManager\\Systems\\PlatformsSystem.cs",
               "RelativeDocumentMoniker": "Assets\\Code\\GameManager\\Systems\\PlatformsSystem.cs",
@@ -223,8 +235,7 @@
               "RelativeToolTip": "Assets\\Code\\GameManager\\Systems\\PlatformsSystem.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAuwBsAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T11:03:51.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T11:03:51.393Z"
             }
           ]
         }

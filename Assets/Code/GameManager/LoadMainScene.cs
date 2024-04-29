@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using YG;
 
 public class LoadMainScene : MonoBehaviour
 {
@@ -19,11 +20,15 @@ public class LoadMainScene : MonoBehaviour
         // a sceneBuildIndex of 1 as shown in Build Settings.
 
         AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(1);
-
+        if (asyncLoad.isDone)
+        {
+            YandexGame.GameReadyAPI();
+        }
         // Wait until the asynchronous scene fully loads
         while (!asyncLoad.isDone)
         {
             yield return null;
         }
+       
     }
 }
