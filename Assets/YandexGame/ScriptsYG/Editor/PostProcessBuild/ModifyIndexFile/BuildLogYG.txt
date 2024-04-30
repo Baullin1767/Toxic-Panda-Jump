@@ -1,2 +1,0 @@
-Build path: D:/Unity/Builds/Toxic Panda YG
-Build number: 11

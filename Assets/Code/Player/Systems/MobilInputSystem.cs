@@ -24,8 +24,7 @@ public sealed class MobilInputSystem : UpdateSystem
             // Обработка касания
             if (touch.phase == TouchPhase.Moved)
             {
-                input.Horizontal = -touch.deltaPosition.normalized.x;
-                Debug.Log("sdfd");
+                input.Horizontal = touch.deltaPosition.normalized.x;
             }
         }
     }

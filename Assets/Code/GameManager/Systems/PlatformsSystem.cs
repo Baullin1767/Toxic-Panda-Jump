@@ -13,10 +13,11 @@ public sealed class PlatformsSystem : UpdateSystem {
     Filter platforms;
     Filter score;
     Filter player;
-    public float screenHeight = 7f; // Высота экрана в условных единицах
-    public float speedCoefficient = 0.1f; // Коэффициент k, который определяет влияние скорости
+    public float screenHeight = 7f;
+    public float speedCoefficient = 0.1f;
 
-    // Функция для получения позиции появления платформы
+    int record;
+
     public float GetSpawnPosition(float speed)
     {
         float spawnPosition = Mathf.Max(9, screenHeight - speedCoefficient * speed);
@@ -29,6 +30,8 @@ public sealed class PlatformsSystem : UpdateSystem {
 
         ref var platformsC = ref platforms.First().GetComponent<PlatformsComponent>();
         platformsC.platformConfig.platformsSpeed = platformsC.platformConfig.platformsSpeedMin;
+        record = PlayerPrefs.GetInt("score");
+
     }
 
     public override void OnUpdate(float deltaTime)
@@ -52,6 +55,8 @@ public sealed class PlatformsSystem : UpdateSystem {
                     platformsComponent.platformConfig.platformsSpeed += 0.01f;
                     player_comp.jumpDelay = player_comp.jumpDelay > 0 ? player_comp.jumpDelay - 0.01f : 0;
                     scoreC.score++;
+                    if(scoreC.score > record)
+                        PlayerPrefs.SetInt("score", scoreC.score);
                     transform.transform.position = new Vector3(Random.Range(
                         platformsComponent.platformConfig.posXmin,
                         platformsComponent.platformConfig.posXmax),
