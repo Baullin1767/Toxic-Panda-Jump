@@ -13,7 +13,7 @@ OcclusionCullingSettings:
 --- !u!104 &2
 RenderSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 9
+  serializedVersion: 10
   m_Fog: 0
   m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_FogMode: 3
@@ -38,13 +38,12 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 12
-  m_GIWorkflowMode: 1
+  serializedVersion: 13
+  m_BakeOnSceneLoad: 0
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -67,9 +66,6 @@ LightmapSettings:
     m_LightmapParameters: {fileID: 0}
     m_LightmapsBakeMode: 1
     m_TextureCompression: 1
-    m_FinalGather: 0
-    m_FinalGatherFiltering: 1
-    m_FinalGatherRayCount: 256
     m_ReflectionCompression: 2
     m_MixedBakeMode: 2
     m_BakeBackend: 1
@@ -334,28 +330,11 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!1 &1819463773 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4667638520397989602, guid: 3cb37843ddc91714fb589a19a971fb83, type: 3}
-  m_PrefabInstance: {fileID: 2025959821}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &1819463774 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6031001078381077293, guid: 3cb37843ddc91714fb589a19a971fb83, type: 3}
   m_PrefabInstance: {fileID: 2025959821}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1819463775
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1819463773}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 88038288a86f6c749a50f9fbb7a1806c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &2025959821
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -479,9 +458,6 @@ PrefabInstance:
     - {fileID: 2199256732096406064, guid: 3cb37843ddc91714fb589a19a971fb83, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4667638520397989602, guid: 3cb37843ddc91714fb589a19a971fb83, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1819463775}
     - targetCorrespondingSourceObject: {fileID: 1305442129054026353, guid: 3cb37843ddc91714fb589a19a971fb83, type: 3}
       insertIndex: -1
       addedObject: {fileID: 619536515}

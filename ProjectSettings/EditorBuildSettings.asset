@@ -9,7 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/LoadScene.unity
     guid: 68d570661dd3e0648bb562b560f1a727
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Game.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:
     com.unity.localization.settings: {fileID: 11400000, guid: 5e735c82c70d2da489f9cc46e1deb908, type: 2}
+  m_UseUCBPForAssetBundles: 0
