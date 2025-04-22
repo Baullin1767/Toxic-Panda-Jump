@@ -14,18 +14,16 @@ public class MobileInput : IPlayerInput
         return false;
     }
 
-    public float GetHorizontalMovement()
+    public float? GetHorizontalMovement()
     {
         if (Input.touchCount > 0)
         {
             Touch touch = Input.GetTouch(0);
             if (touch.phase == TouchPhase.Moved)
             {
-                float deltaX = (touch.position.x - lastTouchPosition.x) * 0.01f;
-                lastTouchPosition = touch.position;
-                return deltaX;
+                return Camera.main.ScreenToWorldPoint(touch.position).x;
             }
         }
-        return 0f;
+        return null;
     }
 }

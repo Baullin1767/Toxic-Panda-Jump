@@ -6,11 +6,13 @@ public class PlayerModel
     public float JumpForce { get; } = 10f;
     public float MoveSpeed { get; } = 5f;
     private Rigidbody2D rb;
+    Transform transform;
 
-    public PlayerModel(Rigidbody2D rigidbody)
+    public PlayerModel(Rigidbody2D rigidbody, Transform transform)
     {
         rb = rigidbody;
         Position = rb.position;
+        this.transform = transform;
     }
 
     public void Jump()
@@ -20,7 +22,7 @@ public class PlayerModel
 
     public void Move(float direction)
     {
-        rb.linearVelocity = new Vector2(direction * MoveSpeed, rb.linearVelocity.y);
+        rb.position = new(direction, transform.position.y);
     }
 
     public void Update()

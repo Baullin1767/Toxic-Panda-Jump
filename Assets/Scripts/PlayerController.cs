@@ -1,31 +1,58 @@
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PandaTouchControl : MonoBehaviour
 {
-    private PlayerModel model;
-    private IPlayerInput playerInput;
+    public float jumpForce = 10f; // ???? ??????
+    public float moveSpeedMultiplier = 0.01f; // ??????????? ???????? ????????
+    private Rigidbody2D rb;
+    private Vector2 lastTouchPosition;
+    private bool isTouching = false;
 
     void Start()
     {
-        model = new PlayerModel(GetComponent<Rigidbody2D>());
-
-#if UNITY_ANDROID || UNITY_IOS
-        playerInput = new MobileInput();
-#else
-            playerInput = new KeyboardInput();
-#endif
+        rb = GetComponent<Rigidbody2D>();
     }
 
     void Update()
     {
-        if (playerInput.IsJumpPressed())
+        if (Input.touchCount > 0)
         {
-            model.Jump();
+            Touch touch = Input.GetTouch(0);
+
+            // ?????? ???????
+            if (touch.phase == TouchPhase.Began)
+            {
+                lastTouchPosition = touch.position;
+
+                // ???????, ???? ??????? ? ?????? ????? ??????
+                if (touch.position.y < Screen.height / 2)
+                {
+                    Jump();
+                }
+                else
+                {
+                    isTouching = true;
+                }
+            }
+
+            // ???? ????? ????????, ????????? ??????????
+            if (touch.phase == TouchPhase.Moved && isTouching)
+            {
+                Vector2 touchDelta = touch.position - lastTouchPosition;
+                transform.position += new Vector3(touchDelta.x * moveSpeedMultiplier, 0, 0);
+                lastTouchPosition = touch.position;
+            }
+
+            // ????? ???????
+            if (touch.phase == TouchPhase.Ended || touch.phase == TouchPhase.Canceled)
+            {
+                isTouching = false;
+            }
         }
+    }
 
-        float move = playerInput.GetHorizontalMovement();
-        model.Move(move);
-
-        model.Update();
+    void Jump()
+    {
+        rb.linearVelocity = Vector2.up * jumpForce;
     }
 }

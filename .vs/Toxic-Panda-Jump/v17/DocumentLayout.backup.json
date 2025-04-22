@@ -3,15 +3,7 @@
   "WorkspaceRootPath": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|d:\\unity\\_projects\\toxic-panda-jump\\assets\\scripts\\playerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|d:\\unity\\_projects\\toxic-panda-jump\\assets\\scripts\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\_Projects\\Toxic-Panda-Jump\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|d:\\unity\\_projects\\toxic-panda-jump\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,16 +11,24 @@
       "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\_Projects\\Toxic-Panda-Jump\\assets\\scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\_Projects\\Toxic-Panda-Jump\\assets\\scripts\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\_Projects\\Toxic-Panda-Jump\\assets\\scripts\\mobileinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mobileinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\_Projects\\Toxic-Panda-Jump\\assets\\scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\keyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\_Projects\\Toxic-Panda-Jump\\assets\\scripts\\iplayerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iplayerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|D:\\Unity\\_Projects\\Toxic-Panda-Jump\\assets\\scripts\\playerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E20866-1049-9261-73B8-ACAF354AF960}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "PlayerView.cs",
               "DocumentMoniker": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\Assets\\Scripts\\PlayerView.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerView.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:35:13.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T12:35:13.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlatformController.cs",
               "DocumentMoniker": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\Assets\\Scripts\\PlatformController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformController.cs",
@@ -68,27 +67,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:34:11.138Z"
+              "WhenOpened": "2025-02-24T12:34:11.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PlayerModel.cs",
               "DocumentMoniker": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\Assets\\Scripts\\PlayerModel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerModel.cs",
               "ToolTip": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\Assets\\Scripts\\PlayerModel.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:32:22.906Z"
+              "WhenOpened": "2025-02-24T12:32:22.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -98,33 +99,36 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\KeyboardInput.cs",
               "ToolTip": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\Assets\\Scripts\\KeyboardInput.cs",
               "RelativeToolTip": "Assets\\Scripts\\KeyboardInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:31:58.702Z"
+              "WhenOpened": "2025-02-24T12:31:58.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MobileInput.cs",
               "DocumentMoniker": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\Assets\\Scripts\\MobileInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MobileInput.cs",
               "ToolTip": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\Assets\\Scripts\\MobileInput.cs",
               "RelativeToolTip": "Assets\\Scripts\\MobileInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:31:34.379Z"
+              "WhenOpened": "2025-02-24T12:31:34.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "IPlayerInput.cs",
               "DocumentMoniker": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\Assets\\Scripts\\IPlayerInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\IPlayerInput.cs",
               "ToolTip": "D:\\Unity\\_Projects\\Toxic-Panda-Jump\\Assets\\Scripts\\IPlayerInput.cs",
               "RelativeToolTip": "Assets\\Scripts\\IPlayerInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:31:02.311Z"
+              "WhenOpened": "2025-02-24T12:31:02.311Z",
+              "EditorCaption": ""
             }
           ]
         }

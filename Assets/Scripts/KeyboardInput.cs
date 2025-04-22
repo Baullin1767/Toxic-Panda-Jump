@@ -4,11 +4,14 @@ public class KeyboardInput : IPlayerInput
 {
     public bool IsJumpPressed()
     {
-        return Input.GetKeyDown(KeyCode.Space);
+        return Input.GetMouseButtonDown(0);
     }
 
-    public float GetHorizontalMovement()
+    public float? GetHorizontalMovement()
     {
-        return Input.GetAxis("Horizontal");
+        if (Input.GetMouseButton(0))
+            return Camera.main.ScreenToWorldPoint(Input.mousePosition).x;
+        else
+            return null;
     }
 }
